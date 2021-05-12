@@ -1,2 +1,2 @@
-ast-tools
-radon
+ast-tools==0.1.4
+radon==4.5.1
